@@ -1,4 +1,4 @@
-![MasterHead](web-developer-chilling.gif)
+[![MasterHead](web-developer-chilling.gif)]
 
 <h1 align="center">Hi 👋, I'm Yash Raj</h1>
 <h3 align="center">A passionate developer from India..</h3>
