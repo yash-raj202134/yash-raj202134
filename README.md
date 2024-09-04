@@ -1,4 +1,4 @@
-[![MasterHead](web-developer-chilling.gif)](https://yash-raj202134.io)
+[![MasterHead](web-developer-chilling.gif)](https://yashraj121.netlify.app/)
 
 <h1 align="center">Hi 👋, I'm Yash Raj</h1>
 <h3 align="center">A passionate developer from India..</h3>
@@ -20,6 +20,8 @@
 - 💬 Ask me about **AI and Future...😮**
 
 - 📫 How to reach me **yashraj3376@gmail.com**
+  
+- 🔗 Visit my Profile [https://yashraj121.netlify.app/](https://yashraj121.netlify.app/)
 
 - 📄 Know about my experiences [https://yashraj121.netlify.app/cv](https://yashraj121.netlify.app/cv)
 
