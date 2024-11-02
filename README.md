@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-raj202134&label=Profile%20views&color=0e75b6&style=flat" alt="yash-raj202134" /> </p>
 
-- 🔭 I’m currently working on [GeoAI-ground-level-NO2-estimation](https://github.com/yash-raj202134/GeoAI-ground-level-NO2-estimation)
+- 🔭 I’m currently working on [AI-Enhanced TV Series Analysis and Character Interaction](https://github.com/yash-raj202134/SeriesLens)
 
 - 🌱 I’m currently learning **Everything 🤣🤣**
 
