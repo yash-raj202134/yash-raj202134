@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [GeoAI-ground-level-NO2-estimation](https://github.com/yash-raj202134/GeoAI-ground-level-NO2-estimation)
 
-- 🌱 I’m currently learning **Everything 🤣**
+- 🌱 I’m currently learning **Everything 🤣🤣**
 
 - 👯 I’m open to collaborate on **Innovative projects**
 
@@ -19,13 +19,13 @@
 
 - 💬 Ask me about **AI and Future...😮**
 
-- 📫 How to reach me **yashraj3376@gmail.com**
+- 📫 How to reach me **yashraj3376@gmail.com** or **yash.raj.alpha@gmail.com**
   
 - 🔗 Visit my Profile [https://yashraj121.netlify.app/](https://yashraj121.netlify.app/)
 
 - 📄 Know about my experiences [https://yashraj121.netlify.app/cv](https://yashraj121.netlify.app/cv)
 
-- ⚡ Fun fact **I think I am Funny 😁**
+- ⚡ Fun fact **I think I am Funny 😁 maybe I am**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
