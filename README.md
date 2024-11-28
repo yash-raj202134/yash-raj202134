@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://yashraj121.netlify.app/blog-listing](https://yashraj121.netlify.app/blog-listing)
 
-- 💬 Ask me about **AI and Future...😮**
+- 💬 Ask me about **AI and Future...😮😊**
 
 - 📫 How to reach me **yashraj3376@gmail.com** or **yash.raj.alpha@gmail.com**
   
