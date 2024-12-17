@@ -43,4 +43,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-raj202134&show_icons=true&locale=en" alt="yash-raj202134" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-raj202134&" alt="yash-raj202134" /></p>
+
