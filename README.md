@@ -1,4 +1,3 @@
-[![MasterHead](web-developer-chilling.gif)](https://yashraj121.netlify.app/)
 <img src="web-developer-chilling.gif" alt="MasterHead" style="width: 100%; height: 100vh; object-fit: cover;">
 <h1 align="center">Hi 👋, I'm Yash Raj</h1>
 <h3 align="center">A passionate Software Developer from India..</h3>
