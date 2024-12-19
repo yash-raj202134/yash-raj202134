@@ -1,6 +1,6 @@
 <img src="web-developer-chilling.gif" alt="MasterHead" style="width: 100%; height: 100vh; object-fit: cover;">
 <h1 align="center">Hi 👋, I'm Yash Raj</h1>
-<h3 align="center">A passionate Software Developer from India..</h3>
+<h3 align="center">A passionate Software Developer and Data Scientist from India..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-raj202134&label=Profile%20views&color=0e75b6&style=flat" alt="yash-raj202134" /> </p>
 
