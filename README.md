@@ -11,8 +11,8 @@
 
 ### About Me
 
-- 🔭 Currently working on **AI Agents** to make my life easier  
-- 🌱 Learning **everything** — always excited to grow!  
+- 🔭 Currently working on **AI Agents** to make my life easier
+- 🌱 Learning **everything 😂😂** — always excited to grow!  
 - 👯 Open to collaborate on **innovative projects**  
 - 🤝 Great at **chit-chat** and sharing ideas  
 
